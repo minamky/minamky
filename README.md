@@ -1,5 +1,5 @@
-## Hi, I'm Mina 👩🏻‍💻 and I'm learning web development!
+## Hi, I'm Mina Ky 👩🏻‍💻
 
-### + 🔭 I’m currently working on building my portfolio website with HTML, CSS, and JS
-### + 🌱 I’m currently learning how to use Figma
-### + ✏️  I’m a CS student at Stanford University
+### + ✏️  I’m a CS student at Stanford University specializing in Systems
+### + 🌱 I am interested in Cloud Computing, Human-Centered Product Development, and Fintech
+### + 🔭 Outside CS, I enjoy baking Asian desserts, watching psychological thriller movies, and doing nail art
